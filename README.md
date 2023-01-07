@@ -1,0 +1,1 @@
+# minggnim.github.io
