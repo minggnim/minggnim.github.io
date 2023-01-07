@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 明说 MingShuo
+title: MingShuo
 email: ming.shuo@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site publishes analysis articles strictly following data driven approach. 
   The purpose is to provide a balanced view on the world events and make the world a better place.
 url: "https://minggnim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: MingShuo
 github_username:  minggnim
 
 # Build settings
