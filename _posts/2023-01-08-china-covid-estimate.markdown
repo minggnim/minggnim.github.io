@@ -9,18 +9,18 @@ As of 9 January 2023, China has reported 10,649,521 confirmed cases of COVID-19 
 
 ![China Covid WHO report](/assets/china-covid-who.png)
 
-These numbers were published after China had lifted COVID-zero policy on 7 Dec 2022. In retrospective, it’d be intersting to see what would happen should COVID-zero policy be lifted at a different timeline. This analysis estimates death toll scenarios by assuming that policy change occurred between February 2021 and December 2022 in weekly intervals.
+These numbers were published after China had lifted the COVID-zero policy on 7 Dec 2022. In retrospect, it’d be interesting to see what would happen should the COVID-zero policy be lifted at a different timeline. This analysis estimates death toll scenarios by assuming that policy change occurred between February 2021 and December 2022 in weekly intervals.
 
-For each assumed COVID-zero end date, the figure below shows the estimated total number of deaths till 2 December. Each estiamte is based on the projection from [UK death rate in each age group during the same period](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths#deaths-by-age).
+For each assumed COVID-zero end date, the figure below shows the estimated total number of deaths till 2 December. Each estimate is based on the projection from [UK death rate in each age group during the same period](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths#deaths-by-age).
 
 ![Death Estimate](/assets/deaths-estimate.png)
 
-From the estimate, it shows that one year's delay of policy change reduces the death toll by over half a million, while 6 month delay reduces by nearly 200,000.
+From the estimate, it shows that one year's delay of policy change reduces the death toll by over half a million, while 6 months delay reduces by nearly 200,000.
 
-The breakdown of death toll per age group over time is presented below. Age group `65 to 74` and `75 to 84` suffer the highest death toll, though both age group combined accounts for 13% overall population.
+The breakdown of death toll per age group over time is presented below. Age groups `65 to 74` and `75 to 84` suffer the highest death toll, though both age groups combined account for 13% overall population.
 
 ![Alt Text](/assets/scenarios.gif)
 
 Note: the estimates in this analysis did not factor in 
-- The impact from early waves of COVID-19 deaths pre February 2021 in the UK, which may increase the death estimates
+- The impact of early waves of COVID-19 deaths pre-February 2021 in the UK, which may increase the death estimates
 - The difference in medical conditions in both countries
