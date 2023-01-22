@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site publishes analysis strictly following data driven approach. 
   The purpose is to provide a balanced view on the world events and make the world a better place.
 url: "https://minggnim.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MingShuo
-github_username:  g13715699
+twitter_username: g13715699
+github_username:  minggnim
 
 # Build settings
 theme: minima
