@@ -15,7 +15,7 @@ For each assumed COVID-zero end date, the figure below shows the estimated total
 
 ![Death Estimate](/assets/deaths-estimate.png)
 
-From the estimate, it shows that one year's delay of policy change reduces the death toll by over half a million, while 6 months delay reduces by nearly 200,000.
+From the estimate, it shows that one year delay of policy change reduces the death toll by over half a million, while 6 months delay reduces it by nearly 200,000.
 
 The breakdown of death toll per age group over time is presented below. Age groups `65 to 74` and `75 to 84` suffer the highest death toll, though both age groups combined account for 13% overall population.
 
