@@ -11,13 +11,13 @@ As of 9 January 2023, China has reported 10,649,521 confirmed cases of COVID-19 
 
 These numbers were published after China had lifted the COVID-zero policy on 7 Dec 2022. In retrospect, it’d be interesting to see what would happen should the COVID-zero policy be lifted at a different timeline. This analysis estimates death toll scenarios by assuming that policy change occurred between February 2021 and December 2022 in weekly intervals.
 
-For each assumed COVID-zero end date, the figure below shows the estimated total number of deaths till 2 December. Each estimate is based on the projection from [UK death rate in each age group during the same period](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths#deaths-by-age).
+For each assumed COVID-zero end date, the figure below shows the estimated total number of deaths till 2 December. Each estimate is based on the projection from [the UK death rate in each age group during the same period](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths#deaths-by-age).
 
 ![Death Estimate](/assets/deaths-estimate.png)
 
-From the estimate, it shows that one year delay of policy change reduces the death toll by over half a million, while 6 months delay reduces it by nearly 200,000.
+The estimate shows that one year delay of policy change reduces the death toll by over half a million, while 6 months delay reduces it by nearly 200,000.
 
-The breakdown of death toll per age group over time is presented below. Age groups `65 to 74` and `75 to 84` suffer the highest death toll, though both age groups combined account for 13% overall population.
+The breakdown of the death toll per age group over time is presented below. Age groups `65 to 74` and `75 to 84` suffer the highest death toll, though both age groups combined account for 13% overall population.
 
 ![Alt Text](/assets/scenarios.gif)
 
