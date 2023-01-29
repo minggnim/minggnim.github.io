@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Covid Fatality Estimate in China"
+title:  "App: Covid Fatality Estimate in China"
 date:   2023-01-27
 categories: Analysis Application
 ---
